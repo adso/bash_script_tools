@@ -1,0 +1,7 @@
+# Project_directory_absolute_path  backup_method ( tar , rsync, git, google ) #todo svn and dropio
+# different backup methods are allowed in different lines
+/home/adso/recipes  tar
+/home/adso/recipes rsync
+/home/adso/recipes  google
+/home/adso/projects rsync
+#/home/adso/projects tar

@@ -1,0 +1,8 @@
+#  Syntax
+#    ip             name            bkp_method    home_host          user_host    password       encryption
+70.40.215.139   free-instants.org     rsync     /home1/freeinst/projects        freeinst     450XXE4        none
+#67.20.99.212    free-society.eu       rsync    /home1/freesoci    freesoci     450XXE4        none
+94.23.235.184    ks308115.kimsufi.com  rsync    /home/adso         adso           n            test
+#94.23.235.184   qintagroup.com        rsync    /home/user         user         450XXE4        none
+#207.97.227.239  github.com            git      none               none         450XXE4        none
+#66.249.92.104   google.com            google   none               none           none         none

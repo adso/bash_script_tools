@@ -1,0 +1,9 @@
+#! /bin/bash
+file_crontab="$script_dir/config/crontab.txt"
+file_tools="$script_dir/config/tools.list"
+file_servers="$script_dir/config/servers.list"    # with the local tag 
+file_local_servers="$script_dir/config/localsrv.list"
+file_projects="$script_dir/config/projects.list"
+file_excludes="$script_dir/config/excludes.list"
+file_connections="$script_dir/config/connections.list"
+file_rsync_pass="$script_dir/config/passwords.list"

@@ -1,0 +1,12 @@
+# common excludes 
+
+
+# excludes for tar 
+*.iso
+*.deb
+*.gz
+*vmlinuz*
+
+#
+*.git
+

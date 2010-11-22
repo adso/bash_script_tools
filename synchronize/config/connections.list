@@ -1,0 +1,4 @@
+# priority   con_type     id (essid )       key                 type_key    type_enc     
+    0        wireless       WLAN_F6       XE091531436F6           string       WEP
+    1        wireless       WLAN_BD       Z0023F8A1B1BD           string       WEP  
+    1        wireless       UAB           none                    string       PROXY  

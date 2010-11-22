@@ -1,0 +1,2 @@
+
+Fundamentalmente lee el fichero de proyectos ( projects.txt ) y aplica a cada línea el método de backup indicado, después de mirar cuantos servicios contratados ( servers.txt ) están habilitados para utilizar ese método

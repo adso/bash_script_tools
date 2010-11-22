@@ -1,0 +1,8 @@
+# tool dependency1 dependency2
+tar     gzip
+gpg
+rsync   ssh   ssh-keygen
+git
+svn
+google
+
